@@ -1,3 +1,5 @@
+## Process Followed in each Assignment.
+<br/>
 
 ### Encryption & Decryption using Poly-alphabetic Substitution
 ![Process](https://user-images.githubusercontent.com/43794593/154127846-df50c6ac-02f5-4db4-a99d-177391414857.png)
